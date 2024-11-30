@@ -1,0 +1,24 @@
+.container{
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.container h1{
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.container p{
+    font-size: 1.1em;
+    color: #D3D3D3;
+}
+
+.container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}

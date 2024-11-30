@@ -1,0 +1,40 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.container h2{
+    font-size: h2;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.container p{
+    font-size: 1.1em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container ul{
+    list-style: none;
+    padding: 0;
+}
+
+.container ul li {
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+.container ul li strong {
+    color: white;
+}
+
+.container ul li a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+.container ul li a:hover {
+    text-decoration: underline;
+}
